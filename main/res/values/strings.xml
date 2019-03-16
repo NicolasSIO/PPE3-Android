@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">rv</string>
+    <string name="etMatricule">Matricule : </string>
+    <string name="etMdp">Mot de passe : </string>
+    <string name="etMois">Mois : </string>
+    <string name="etAnnee">Année : </string>
+    <string name="bValider">Valider</string>
+    <string name="bAnnuler">Annuler</string>
+    <string name="Saisir">Saisir un rapport de visite</string>
+    <string name="Consulter">Consulter un rapport de visite</string>
+    <string name="Lister">Afficher la liste des rapports</string>
+    <string name="textValide">Ok</string>
+    <string name="tvNomSession"></string>
+    <string name="tvErreur">Echec à la connexion. Recommencez...</string>
+    <string name="tvListeDateMois"></string>
+    <string name="tvListeDateAnnee"></string>
+    <string name="title_activity_menu_rv_activity">Menu rv activity</string>
+    <string name="title_activity_saisir_rv_activity">Saisir un rapport</string>
+    <string name="bSelectionnerDate">Sélectionner</string>
+    <string name="tvPraticien">Praticien : </string>
+    <string name="tvMotif">Motif : </string>
+    <string name="tvBilan">Bilan : </string>
+    <string name="tvCoeffConfiance">Coefficient de confiance : </string>
+    <string name="tvDateCommande">Date de la visite :</string>
+</resources>
